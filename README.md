@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwaroopGaddam
-- 👀 I’m interested in Data Management
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science to uncover hidden trends and workflow inside business
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on real time analysis on public sectors
 - 📫 How to reach me swaroop.gaddam01@gmail.com
 
 <!---
