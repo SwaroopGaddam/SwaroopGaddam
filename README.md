@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Connect with Me  
-🔗 **LinkedIn:****[LinkedIn](https://www.linkedin.com/in/swaroop-gaddam)**  
+🔗 **LinkedIn:** **[LinkedIn](https://www.linkedin.com/in/swaroop-gaddam)**  
 📩 **Email:** swaroop.gaddam01@gmail.com  
 
 ---
