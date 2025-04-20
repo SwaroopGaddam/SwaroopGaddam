@@ -21,7 +21,8 @@
 ---
 
 ## 📌 Featured Projects  
-💰 **[Loan Default Prediction](https://github.com/SwaroopGaddam/loan-feature-engineering)** – Feature engineering to classify loan repayment ability.  
+💰 **[Loan Default Prediction](https://github.com/SwaroopGaddam/loan-feature-engineering)** –  
+  Feature engineering to classify loan repayment ability.  
 📈 **[Ecommerce Marketing Mix Analysis](https://github.com/SwaroopGaddam/ecommerce-marketing-mix-analysis)** –  
   A deep-dive analysis into marketing spend effectiveness across multiple channels using regression-based Marketing Mix Modeling (MMM).  
  📊 **[Time Series Seasonality Analysis](https://github.com/SwaroopGaddam/time-series-seasonality)** –  
